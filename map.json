@@ -380,7 +380,7 @@
         {
          "columns":32,
          "firstgid":2683,
-         "image":"..\/..\/..\/Tiled_Project\/assets\/tilesets\/img\/THB_starter21.png",
+         "image":"src\/assets\/THB_starter21.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
